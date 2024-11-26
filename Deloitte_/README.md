@@ -1,2 +1,2 @@
 # Case-Studies
-A group of case studies done through Coursera
+A case study done through Coursera Data Analytics Certificate
